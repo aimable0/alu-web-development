@@ -119,3 +119,7 @@ aside p {
 article p {
     font-family:'Gill Sans';
     font-size: medium;
+}
+aside a {
+    color:#ff6600
+}
