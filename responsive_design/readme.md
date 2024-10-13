@@ -1,0 +1,1 @@
+This project is aimed at enhancing my skills in building responsive webs
